@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cb0b1b4-be2c-49bc-97de-3447b177e415" name="Changes" comment="" />
+    <list default="true" id="100f0340-0b3d-4ef6-a9fa-967eac96bf10" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,29 +17,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2yCL7SpKnprxwVquUZliP4mXCqH" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2yCQZmy4ITqrfpWgcovgS9qiyOs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9cb0b1b4-be2c-49bc-97de-3447b177e415" name="Changes" comment="" />
-      <created>1749333442205</created>
+      <changelist id="100f0340-0b3d-4ef6-a9fa-967eac96bf10" name="Changes" comment="" />
+      <created>1749336134023</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1749333442205</updated>
-      <workItem from="1749333443303" duration="346000" />
-      <workItem from="1749336088838" duration="45000" />
+      <updated>1749336134023</updated>
+      <workItem from="1749336135094" duration="680000" />
     </task>
     <servers />
   </component>
